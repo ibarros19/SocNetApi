@@ -61,11 +61,6 @@ Because it's a backend api I used insomnia to do the CRUD (create, read, update 
     <td><img src="img/screenshot6.png" target="blank" width=300px></td>
 
   </tr>
-  <tr>
-    <td><img src="img/screenshot7.png" target="blank" width=300px></td>
-    <td><img src="img/screenshot8.png" target="blank" width=300px></td>
-
-  </tr>
   </table>
 <br>
 <a name='live'></a>
@@ -75,7 +70,7 @@ Because it's a backend api I used insomnia to do the CRUD (create, read, update 
 
 GitHub Repository-> <a href="https://github.com/ibarros19/SocNetApi" target="_blank">LINK</a> 
 <br>
-Video Demo-> <a href="https://" target="_blank">LINK</a> 
+Video Demo-> <a href="https://www.youtube.com/watch?v=19cKJxWWHZU" target="_blank">LINK</a> 
 <a name='questions'></a>
 
 ## Questions
