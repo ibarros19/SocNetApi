@@ -6,10 +6,7 @@
   ![License](https://img.shields.io/badge/License-MIT-blue)
   <br>
   
-  <a name='tech'></a>
-## Technologies
-  ![js](https://img.shields.io/badge/JS-JavaScript-red) ![NODE](https://img.shields.io/badge/npm-Node.js-lightgrey) ![MONGO](https://img.shields.io/badge/%F0%9F%8D%83%20-MongoDB-green) ![INSOMNIA](https://img.shields.io/badge/%F0%9F%8C%99-Insomnia-yellow) ![EXPRESS](https://img.shields.io/badge/-Express-9cf) ![MONGOOSE](https://img.shields.io/badge/-Mongoose-9cf)
-  
+  <a name='tech'></a>  
   
   <h2>Table of Contents</h2>
   
@@ -21,7 +18,10 @@
   * [Questions](#questions)
 
 
-
+  <a name='tech'></a>
+## Technologies
+  ![js](https://img.shields.io/badge/JS-JavaScript-red) ![NODE](https://img.shields.io/badge/npm-Node.js-lightgrey) ![MONGO](https://img.shields.io/badge/%F0%9F%8D%83%20-MongoDB-green) ![INSOMNIA](https://img.shields.io/badge/%F0%9F%8C%99-Insomnia-yellow) ![EXPRESS](https://img.shields.io/badge/-Express-9cf) ![MONGOOSE](https://img.shields.io/badge/-Mongoose-9cf)
+  
 <a name='description'></a>
 ## Description
 [Main Menu](#home)
